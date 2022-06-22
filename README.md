@@ -69,14 +69,6 @@ cat_img[50:150,50:150] = tag
 cv2.imshow('Cat1',cat_img)
 cv2.waitKey(0)
 destroyAllWindows()
-
-
-
-
-
-
-
-
 ```
 ## Output:
 
