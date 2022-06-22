@@ -71,10 +71,8 @@ cv2.waitKey(0)
 destroyAllWindows()
 ```
 ## Output:
-
 ### i) Read and display the image
 ![output](./static/img/do1.png)
-<br>
 ### ii)Write the image
 ![output](./static/img/do2.png)
 <br>
