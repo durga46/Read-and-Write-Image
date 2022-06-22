@@ -135,6 +135,8 @@ destroyAllWindows()
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ### v)Cut and paste portion of image
 ![output](./static/img/do5.png)
