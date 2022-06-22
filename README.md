@@ -75,9 +75,6 @@ destroyAllWindows()
 ### i) Read and display the image
 ![output](./static/img/do1.png)
 <br>
-<br>
-<br>
-
 ### ii)Write the image
 ![output](./static/img/do2.png)
 <br>
