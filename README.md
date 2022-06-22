@@ -88,6 +88,8 @@ destroyAllWindows()
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ### ii)Write the image
 ![output](./static/img/do2.png)
@@ -118,6 +120,20 @@ destroyAllWindows()
 
 ### iv)Access rows and columns
 ![output](./static/img/do4.png)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
