@@ -66,11 +66,26 @@ cv2.imshow('Cat1',cat_img)
 cv2.waitKey(0)
 destroyAllWindows()
 ```
+<br>
+<br>
+<br>
+
 ## Output:
 ### i) Read and display the image
 ![output](./static/img/do1.png)
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### ii)Write the image
 ![output](./static/img/do2.png)
