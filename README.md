@@ -1,5 +1,5 @@
-## Ex No:01
-## Date:30.0.2022
+## Ex No :01
+## Date : 30.0.2022
 # <p align="center">  READ AND WRITE AN IMAGE</p>
 
 ## AIM
@@ -116,6 +116,20 @@ destroyAllWindows()
 
 ### iv)Access rows and columns
 ![output](./static/img/do4.png)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 ### v)Cut and paste portion of image
