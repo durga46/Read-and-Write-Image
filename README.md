@@ -38,20 +38,15 @@ cv2.imshow('cat1',cat_img)
 cv2.waitKey(0)
 destroyAllWindows()
 
-
 # To write the image
 import cv2
 cat_img = cv2.imread('cat.jpg',1)
 cv2.imwrite('new image.jpg',cat_img)
 
-
-
 # Find the shape of the Image
 import cv2
 cat_img = cv2.imread('cat.jpg',1)
 print(cat_img.shape))
-
-
 
 # To access rows and columns
 import random
@@ -61,8 +56,6 @@ for i in range(100):
 cv2.imshow('Cat1',cat_img)
 cv2.waitKey(0)
 destroyAllWindows()
-
-
 
 # To cut and paste portion of image
 import cv2
@@ -77,71 +70,24 @@ destroyAllWindows()
 ### i) Read and display the image
 ![output](./static/img/do1.png)
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ### ii)Write the image
 ![output](./static/img/do2.png)
-<br>
-<br>
-<br>
 <br>
 
 ### iii)Shape of the Image
 ![output](./static/img/do3.png)
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 ### iv)Access rows and columns
 ![output](./static/img/do4.png)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 
 ### v)Cut and paste portion of image
 ![output](./static/img/do5.png)
 <br>
-<br>
+
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
