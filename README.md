@@ -103,6 +103,16 @@ destroyAllWindows()
 ### iii)Shape of the Image
 ![output](./static/img/do3.png)
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### iv)Access rows and columns
 ![output](./static/img/do4.png)
