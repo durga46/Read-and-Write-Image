@@ -86,9 +86,18 @@ destroyAllWindows()
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
 
 ### ii)Write the image
 ![output](./static/img/do2.png)
+<br>
+<br>
+<br>
+<br>
 <br>
 
 ### iii)Shape of the Image
