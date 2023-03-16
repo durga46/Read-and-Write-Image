@@ -1,5 +1,5 @@
 ## Ex No :01
-## Date : 30.0.2022
+
 # <p align="center">  READ AND WRITE AN IMAGE</p>
 
 ## AIM
